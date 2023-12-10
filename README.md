@@ -23,7 +23,6 @@ I'm always exploring new technologies and staying updated with industry trends.
 ## 📫 Let's Connect!
 
 - **LinkedIn:** www.linkedin.com/in/dalibor-vlatkovic
-- **Portfolio:** [Link to your portfolio or personal website]
 - **Email:** 📫 dalibor.vlatkovic@gmail.com
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat! 🌐
