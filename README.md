@@ -1,7 +1,7 @@
-# Hello, World! 👋
+# Hi! 👋
 
 I'm Dalibor Vlatkovic, a passionate web developer based in Niš - Serbia.
-Currently, I specialize in building robust and scalable applications using JavaScript, Node.js, Next.js, and Python.
+Currently, I specialize in building robust and scalable applications using JavaScript, Node.js, Next.js.
 
 ## 💼 Professional Experience
 
